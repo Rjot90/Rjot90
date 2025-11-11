@@ -29,5 +29,5 @@ Appris au cours mes formations et par curiosité.
 
 ## Mes Stats:
 
-![Tes Stats](https://github-readme-stats.vercel.app/api?username=Bullestico42&show_icons=true&theme=tokyonight)
-![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=Bullestico42&layout=compact&theme=tokyonight)
+![Tes Stats](https://github-readme-stats.vercel.app/api?username=Rjot90&show_icons=true&theme=tokyonight)
+![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=Rjot90&layout=compact&theme=tokyonight)
