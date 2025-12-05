@@ -15,7 +15,7 @@
 
 -  Je suis un jeune développeur passionné par l'informatique étudiant à 42Lausanne.
 -  Premier Jeu vidéo fais entierement sur Unity en C# (FT_G4M3S): <a href="https://github.com/Rjot90/N-Taverns">N-Taverns</a>.
--  mon blog de fou furieux trop swag: <a href="https://rjot90.github.io/SHFolio/">fun.sh</a>.
+-  mon blog de fou furieux trop swag: <a href="https://rjot90.github.io/blog/">blog</a>.
 
 ---
 
